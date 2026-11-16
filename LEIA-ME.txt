@@ -1,0 +1,11 @@
+Happy Dog — landing page
+
+Abra index.html em um navegador para visualizar o site. A página usa Arial/Helvetica e layouts responsivos.
+
+Contato e localização foram transcritos das referências fornecidas:
+- WhatsApp: (37) 99979-6578
+- Instagram: @happydogtaty
+- Rua Sacramento, 189 — Centro, Pará de Minas/MG
+- Horário mostrado nas referências: 08h às 18h
+
+As fotografias do site são carregadas da CDN do Unsplash, então precisam de conexão com a internet. Os botões de contato usam o WhatsApp e Instagram informados.
